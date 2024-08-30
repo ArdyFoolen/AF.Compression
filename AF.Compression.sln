@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AF.Compression", "AF.Compression\AF.Compression.csproj", "{388D0E96-F861-43FE-B18A-2E00F7856EF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCompression", "AppCompression\AppCompression.csproj", "{E5E739C9-F5AA-40DB-AE6C-626F4EADBDF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{388D0E96-F861-43FE-B18A-2E00F7856EF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{388D0E96-F861-43FE-B18A-2E00F7856EF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{388D0E96-F861-43FE-B18A-2E00F7856EF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{388D0E96-F861-43FE-B18A-2E00F7856EF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5E739C9-F5AA-40DB-AE6C-626F4EADBDF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5E739C9-F5AA-40DB-AE6C-626F4EADBDF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5E739C9-F5AA-40DB-AE6C-626F4EADBDF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5E739C9-F5AA-40DB-AE6C-626F4EADBDF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F9BA6AA-2DA1-4E27-976B-9F63EE597D86}
+	EndGlobalSection
+EndGlobal

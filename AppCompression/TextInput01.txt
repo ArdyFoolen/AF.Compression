@@ -1,0 +1,5 @@
+﻿This is a text file, I want to test
+for compression. I am just entering
+some data to see if I can make it
+shorter. I am using this for an
+example file as input.
